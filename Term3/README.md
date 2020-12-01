@@ -3,7 +3,7 @@
 ## Project - Term 3 ML Foundation: Housing Price in USA
 
 <a id='section1'></a>
-### 1.0 Problem Statement
+### Problem Statement
 Many of us in our lifetime encounter a process of buying or selling a house. **A House Buyer** is interested in purchasing the best house for the money he is paying to the Seller however **a House Seller** is interested in selling the house for the best-selling price. This project is focused on predicting house prices in USA based on the data available. This will eventually help potential house buyers as well as sellers.
 
 Typically when the house value is evaluated, a layman may consider features of the house such as neighborhood, vicinity to key places (such as hospitals-clinics, schools, banks, markets-malls, public transport, work location etc.), square footage of the house, house type, number of bedrooms/bathrooms, amount of space around the house, vehicle parking, number of years, utilities supply etc.
