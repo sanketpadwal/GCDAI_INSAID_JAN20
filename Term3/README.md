@@ -2,7 +2,7 @@
 
 ## Project - Term 3 ML Foundation: Housing Price in USA
 
-<img src="house_price.png" align='center' width='700' height='300'><br/>
+<img src="house_price.png" align='center' width='650' height='300'><br/>
 
 <a id='section1'></a>
 ### Problem Statement
