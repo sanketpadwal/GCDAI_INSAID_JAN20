@@ -1,8 +1,8 @@
 # Insaid Term 4a Project - ML Intermediate
 # **GENDER RECOGNITION THROUGH VOICE USING SUPPORT VECTOR MACHINE ALGORITHM**
-<center><img src="https://github.com/sanketpadwal/GCDAI_INSAID_JAN20/blob/main/Term4/Voice_Recognition1.jpeg?raw=true" width="500" height="250" /></center>
+<center><img src="https://github.com/sanketpadwal/GCDAI_INSAID_JAN20/blob/main/Term4/Voice_Recognition1.jpeg?raw=true" width="400" height="250" /></center>
 
-<center><img src="https://github.com/sanketpadwal/GCDAI_INSAID_JAN20/blob/main/Term4/Voice_Recognition.jpeg?raw=true" width="500" height="250" /></center>
+<center><img src="https://github.com/sanketpadwal/GCDAI_INSAID_JAN20/blob/main/Term4/Voice_Recognition.jpeg?raw=true" width="400" height="250" /></center>
 
 ---
 <a name = Section1></a>
