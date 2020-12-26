@@ -1,6 +1,6 @@
 # Insaid Term 4a Project - ML Intermediate
 # **GENDER RECOGNITION THROUGH VOICE USING SUPPORT VECTOR MACHINE ALGORITHM**
-<center><img src="https://github.com/sanketpadwal/GCDAI_INSAID_JAN20/blob/main/Term4/la-ville-lumire-2400-2.jpg?raw=true" width="1200" height="500" /></center>
+<center><img src="https://github.com/sanketpadwal/GCDAI_INSAID_JAN20/blob/main/Term4/Voice_Recognition1.jpeg?raw=true" width="1200" height="500" /></center>
 
 ---
 <a name = Section1></a>
@@ -17,7 +17,7 @@ The provided audio data cannot be understood by the models directly. To convert 
 'WarbleR R package' is designed for Acoustic analysis. The dataset which have acoustic parameters can be obtained with this analysis. Acoustic analysis of the voice depend upon parameter settings specific to sample characteristics such as intensity, duration, frequency and filtering. The acoustic properties of the voice and speech can be used to detect gender of the speaker. The dataset can be trained with different machine learning algorithms. In this project, SVM Classification method is used to detect(predict) the gender of voice inputs. Objective of this assessment is to identify the SVM kernel and hyper parameters for the better accuracy.
 
 
-<center><img src="https://github.com/sanketpadwal/GCDAI_INSAID_JAN20/blob/main/Term4/0_AN8suioCkeRkugES.gif?raw=true" width="720" height="150" /></center>
+<center><img src="https://github.com/sanketpadwal/GCDAI_INSAID_JAN20/blob/main/Term4/Voice_Recognition.jpeg?raw=true" width="720" height="150" /></center>
 
 ### **Dataset:**
 Voice Gender - Gender recognition by voice and speech analysis.
