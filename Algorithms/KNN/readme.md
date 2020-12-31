@@ -1,4 +1,4 @@
-# **Heart failure clinical records Data Set**
+# **Heart Failure Clinical Records Data Set**
 ### *KNN Algorithm and Grid Search CV*
 
 <center><img src="https://github.com/sanketpadwal/GCDAI_INSAID_JAN20/blob/main/Algorithms/KNN/Snap215.jpg?raw=true" width="1000" height="400" /></center>
