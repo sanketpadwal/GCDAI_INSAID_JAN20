@@ -1,7 +1,7 @@
 # **Indian Recipes and Ingredients**
 ### *Apriori Algorithm*
 
-<img src="https://github.com/sanketpadwal/GCDAI_INSAID_JAN20/blob/main/Algorithms/Apriori/spice_625x350_51471090241.jpg?raw=true" width="500" height="300" /><img src="https://github.com/sanketpadwal/GCDAI_INSAID_JAN20/blob/main/Algorithms/KMean/10-Behavioral-Segmentation-Methods-Types.png?raw=true" width="500" height="300" />
+<img src="https://github.com/sanketpadwal/GCDAI_INSAID_JAN20/blob/main/Algorithms/Apriori/spice_625x350_51471090241.jpg?raw=true" width="500" height="300" /><img src="https://github.com/sanketpadwal/GCDAI_INSAID_JAN20/blob/main/Algorithms/Apriori/assortment-indian-cusine-collage-traditional-foods-arranged-as-cuisine-214330276.jpg?raw=true" width="500" height="300" />
 
 
 *image source - https://images.app.goo.gl/ksM7JsRxMNMb3yaT8*<br>
