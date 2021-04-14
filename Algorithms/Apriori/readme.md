@@ -1,11 +1,11 @@
-# **Indian Recipes and Ingredienmts**
+# **Indian Recipes and Ingredients**
 ### *Apriori Algorithm*
 
 <img src="https://github.com/sanketpadwal/GCDAI_INSAID_JAN20/blob/main/Algorithms/KMean/download.jfif?raw=true" width="500" height="300" /><img src="https://github.com/sanketpadwal/GCDAI_INSAID_JAN20/blob/main/Algorithms/KMean/10-Behavioral-Segmentation-Methods-Types.png?raw=true" width="500" height="300" />
 
 
-*image source - https://www.latimes.com/business/story/2020-03-25/coronavirus-credit-card-losses-echo-of-2008*<br>
-*image source - https://www.pointillist.com/blog/behavioral-segmentation//*
+*image source - https://images.app.goo.gl/ksM7JsRxMNMb3yaT8*<br>
+*image source - https://images.app.goo.gl/n12SjWcynTqqsTvv8*
 
 
 ## Problem Statement
