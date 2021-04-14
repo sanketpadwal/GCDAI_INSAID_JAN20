@@ -9,12 +9,12 @@
 
 
 ## Problem Statement
-Segmentation of credit card customers based on their behaviour observed for 6 months.
+There are wide variety of indian cusines. Many dishes are made with different combinations of ingrediatents. Combination of ingredients is creatical for the cusine taste. Certain combination of ingrediaents are largely used where as certain combinations are to be avoided.   
 
 
 ## Objective
- - Explore K-Mean algorithm
- - Build interactive application using streamlit library 
+ - Explore Apriori algorithm
+ - Build interactive application to suggest which indian cuisine can be cooked based on available ingredients. 
 
 
 ## About this dataset
