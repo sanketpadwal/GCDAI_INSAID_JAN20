@@ -25,10 +25,8 @@ This datset contains the recipes of wide varieties of india cuisines, list of in
 
 Following is the Data Dictionary for indian recipes dataset :- <br>
 
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 | First Header  | Second Header |
+| ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
