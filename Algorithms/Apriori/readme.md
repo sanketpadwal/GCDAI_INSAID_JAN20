@@ -25,11 +25,11 @@ This datset contains the recipes of wide varieties of india cuisines, list of in
 
 Following is the Data Dictionary for indian recipes dataset :- <br>
 
-
-RecipeName | Recipe Name |
-TotalTimeInMins | Total time required to make this recipe in minutes |
-Cusine | Cusine style |
-URL | Recipe weblink |
+|--------------|----------------|
+|RecipeName | Recipe Name |
+|TotalTimeInMins | Total time required to make this recipe in minutes |
+|Cusine | Cusine style |
+|URL | Recipe weblink |
 Ingredients | list of ingredients required to make this recipe |
 image-url | image url of the recipe |
 
