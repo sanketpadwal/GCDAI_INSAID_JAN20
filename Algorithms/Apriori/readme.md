@@ -29,7 +29,7 @@ Following is the Data Dictionary for indian recipes dataset :- <br>
 <md>
 
 
-
+ - | :-: |
 RecipeName | Recipe Name |
 TotalTimeInMins | Total time required to make this recipe in minutes |
 Cusine | Cusine style |
