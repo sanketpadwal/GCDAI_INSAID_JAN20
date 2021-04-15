@@ -31,6 +31,9 @@ Following is the Data Dictionary for indian recipes dataset :- <br>
 |Cusine | Cusine style |
 |URL | Recipe weblink |
 
+|title|value|
+|new  |value|
+
 |-------------|--------|
 |**Name:**    |John Doe|
 |**Position:**|CEO     |
