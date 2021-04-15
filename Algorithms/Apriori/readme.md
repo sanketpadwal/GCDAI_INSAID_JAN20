@@ -30,6 +30,10 @@ Following is the Data Dictionary for indian recipes dataset :- <br>
 |TotalTimeInMins | Total time required to make this recipe in minutes |
 |Cusine | Cusine style |
 |URL | Recipe weblink |
+
+|-------------|--------|
+|**Name:**    |John Doe|
+|**Position:**|CEO     |
 Ingredients | list of ingredients required to make this recipe |
 image-url | image url of the recipe |
 
